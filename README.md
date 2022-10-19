@@ -9,6 +9,6 @@ USELESS (UNIX SYSTEM EXTREMELY LATE EXECUTION SOFTWARE SYSTEM) — это про
 
 Чтобы запустить программу:
 1. Cклонируйте этот репозиторий себе на компьютер.
-2. Зайдите в папку с useless.c, prog*.o, file.txt, run.
+2. Зайдите в папку с useless.c, prog*.c, file.txt, run.
 3. Пропишите "./run" в термианле.
 
